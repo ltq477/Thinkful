@@ -1,0 +1,9 @@
+Harvard: 974fdfa0-a6bf-11ea-825b-875cde66b0b5
+
+Twitter:
+Consumer API:fcjZbtSiCaT3ga5HB61RphO7z
+Consumer API Secret: CnNJcYVaj5IrecmYhYWxRtm5zjafSEzMtLk6k6U2N0MWWFMNhC
+
+Access Token: 48141580-ibSv01FKFiqAnItVjLtlAcYCQekfUih53uVQVd4Nf
+Access Token Secret: ZEYbCSq3qbxhqG99frC49ffocLAEUNVTPMAkAzL4ofvuO
+
